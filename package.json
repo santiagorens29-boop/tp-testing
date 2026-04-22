@@ -1,0 +1,24 @@
+{
+  "name": "tp-testing",
+  "version": "1.0.0",
+  "description": "Proyecto de calculadora con testing automatizado",
+  "main": "calculator.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagorens29-boop/tp-testing.git"
+  },
+  "keywords": [],
+  "author": "Santiago - Rol Alfa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagorens29-boop/tp-testing/issues"
+  },
+  "homepage": "https://github.com/santiagorens29-boop/tp-testing#readme",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
