@@ -3,5 +3,5 @@ export function add(a, b) {
 }
 
 export function subtract(a, b) {
-  // Beta completará esto
+  return a - b 
 }
